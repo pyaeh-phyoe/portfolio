@@ -85,9 +85,9 @@ export default function Home() {
             <div className='flex p-16 justify-around'>
               <a href="http://www.github.com/pyaeh-phyoe" className='hover:underline hover:underline-offset-4 hover:decoration-2	 dark:hover:text-pink-500'>GitHub</a>
               <a href="http://www.linkedin.com/in/pyaehphyoekoko" className='hover:underline hover:underline-offset-4 hover:decoration-2	 dark:hover:text-pink-500'>LinkedIn</a>
-              <Link href="./resume" className='hover:underline hover:underline-offset-4 hover:decoration-2	 dark:hover:text-pink-500'>Resume</Link>
-
-              {/* <a href="/resume" className='hover:underline hover:underline-offset-4 hover:decoration-2	 dark:hover:text-pink-500'>Resume</a> */}
+<!--               <Link href="./resume" className='hover:underline hover:underline-offset-4 hover:decoration-2	 dark:hover:text-pink-500'>Resume</Link>
+ -->
+              <a href="https://pyaeh-phyoe.github.io/resume/" className='hover:underline hover:underline-offset-4 hover:decoration-2	 dark:hover:text-pink-500'>Resume</a> 
             </div>
             <div className='flex justify-center' onClick={() => {
               window.scrollTo({ top: 0, left: 0, behavior: 'smooth' });
