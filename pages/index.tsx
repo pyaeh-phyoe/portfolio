@@ -46,9 +46,9 @@ export default function Home() {
             </button>
           </header>
 
-          {/* <section className='py-10 border-b border-zinc-300 dark:border-[#2c2c2c]'>
+          <section className='py-10 border-b border-zinc-300 dark:border-[#2c2c2c]'>
             <div className='flex items-center justify-between'>
-              <h3 className='text-4xl font-bold mb-2.5'>Hey, I'm Pyaeh Phyoe Ko Ko!</h3>
+              {/* <h3 className='text-4xl font-bold mb-2.5'>Hey, I'm Pyaeh Phyoe Ko Ko!</h3>
               <div className='w-40 h-40 rounded-full'>
                 <Image
                   alt='avatar'
@@ -56,9 +56,9 @@ export default function Home() {
                   height={160}
                   src="/avatar.png"
                 />
-              </div>
+              </div> */}
             </div>
-          </section> */}
+          </section> 
 
           <section className='py-10 border-b border-zinc-300 dark:border-[#2c2c2c]'>
             <h3 className='text-xl font-bold mb-2.5'>Technical Skills</h3>
@@ -85,7 +85,7 @@ export default function Home() {
             <div className='flex p-16 justify-around'>
               <a href="http://www.github.com/pyaeh-phyoe" className='hover:underline hover:underline-offset-4 hover:decoration-2	 dark:hover:text-pink-500'>GitHub</a>
               <a href="http://www.linkedin.com/in/pyaehphyoekoko" className='hover:underline hover:underline-offset-4 hover:decoration-2	 dark:hover:text-pink-500'>LinkedIn</a>
-              <Link href="/resume">resume</Link>
+              <Link href="/resume">Resume</Link>
 
               {/* <a href="/resume" className='hover:underline hover:underline-offset-4 hover:decoration-2	 dark:hover:text-pink-500'>Resume</a> */}
             </div>
