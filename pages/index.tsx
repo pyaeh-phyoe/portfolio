@@ -35,7 +35,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className='text-lg flex flex-col items-center min-h-screen p-12 dark:bg-zinc-900 bg-zinc-50'>
-        {/* <div className='max-w-[70rem]'>
+        <div className='max-w-[70rem]'>
           <header className='flex justify-end'>
             <button className='flex h-12 w-12 rounded-full items-center justify-center bg-zinc-900 dark:bg-zinc-50 '>
               <DarkModeSwitch
@@ -45,7 +45,7 @@ export default function Home() {
             </button>
           </header>
 
-          <section className='py-10 border-b border-zinc-300 dark:border-[#2c2c2c]'>
+          {/* <section className='py-10 border-b border-zinc-300 dark:border-[#2c2c2c]'>
             <div className='flex items-center justify-between'>
               <h3 className='text-4xl font-bold mb-2.5'>Hey, I'm Pyaeh Phyoe Ko Ko!</h3>
               <div className='w-40 h-40 rounded-full'>
@@ -57,7 +57,7 @@ export default function Home() {
                 />
               </div>
             </div>
-          </section>
+          </section> */}
 
           <section className='py-10 border-b border-zinc-300 dark:border-[#2c2c2c]'>
             <h3 className='text-xl font-bold mb-2.5'>Technical Skills</h3>
@@ -97,7 +97,7 @@ export default function Home() {
             </div>
 
           </footer>
-        </div> */}
+        </div> 
       </main>
 
     </>
