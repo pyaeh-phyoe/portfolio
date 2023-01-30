@@ -35,7 +35,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className='text-lg flex flex-col items-center min-h-screen p-12 dark:bg-zinc-900 bg-zinc-50'>
-        <div className='max-w-[70rem]'>
+        {/* <div className='max-w-[70rem]'>
           <header className='flex justify-end'>
             <button className='flex h-12 w-12 rounded-full items-center justify-center bg-zinc-900 dark:bg-zinc-50 '>
               <DarkModeSwitch
@@ -97,7 +97,7 @@ export default function Home() {
             </div>
 
           </footer>
-        </div>
+        </div> */}
       </main>
 
     </>
