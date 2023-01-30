@@ -54,7 +54,7 @@ export default function Home() {
                   alt='avatar'
                   width={160}
                   height={160}
-                  src="/avatar.png"
+                  src="./avatar.png"
                 />
               </div> 
             </div>
