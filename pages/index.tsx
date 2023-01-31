@@ -77,9 +77,9 @@ export default function Home() {
             <h3 className='text-xl font-bold mb-2.5'>My Personal Projects</h3>
             <ul className="pl-12">
               <li><a href='http://www.cssgradienteditor.com'>cssgradienteditor.com</a></li>
-              <li><a href='http://www.csstextshadoweditor.com'></a>csstextshadoweditor.com</li>
-              <li><a href='http://www.html-css-js-editor.vercel.app'></a>html-css-js-editor.vercel.app</li>
-              <li><a href='http://www.real-time-open-chat.vercel.app'></a>real-time-open-chat.vercel.app</li>
+              <li><a href='http://www.csstextshadoweditor.com'>csstextshadoweditor.com</a></li>
+              <li><a href='http://www.html-css-js-editor.vercel.app'>html-css-js-editor.vercel.app</a></li>
+              <li><a href='http://www.real-time-open-chat.vercel.app'>real-time-open-chat.vercel.app</a></li>
             </ul>
           </section>
           <footer>
