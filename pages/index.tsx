@@ -48,7 +48,7 @@ export default function Home() {
 
           <section className='py-10 border-b border-zinc-300 dark:border-[#2c2c2c]'>
             <div className='flex items-center justify-between'>
-              <h3 className='text-4xl font-bold'>Hey, Im Pyaeh Phyoe Ko Ko!</h3>
+              <h3 className='text-4xl font-bold'>Hey, I&#39;m Pyaeh Phyoe Ko Ko!</h3>
               {/* <h3 className='text-4xl font-bold mb-2.5'>Hey, I'm Pyaeh Phyoe Ko Ko!</h3> */}
               <div className='w-40 h-40 rounded-full'>
                 <Image
