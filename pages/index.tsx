@@ -66,10 +66,10 @@ export default function Home() {
             <ul className='pl-12'>
               <li>Programming Languages: HTML, CSS, JavaScript, TypeScript
               </li>
-              <li>Frameworks and Libraries: React, Next, ReactNative, Bootstrap, JQuery, Tailwind, Socket.io,  Puppeteer, CodeMirror
+              <li>Frameworks and Libraries: React, Next, ReactNative, Jest, Bootstrap, JQuery, Tailwind, Socket.io,  Puppeteer, CodeMirror
               </li>
               <li>Databases: MongoDB</li>
-              <li>Tools: Git, Jira
+              <li>Tools: Docker, Git, Jira
               </li>
             </ul>
           </section>
