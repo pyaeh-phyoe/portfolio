@@ -69,7 +69,7 @@ export default function Home() {
               <li>Frameworks and Libraries: React, Next, ReactNative, Jest, Bootstrap, JQuery, Tailwind, Socket.io,  Puppeteer, CodeMirror
               </li>
               <li>Databases: MongoDB</li>
-              <li>Tools: Docker, Git, Jira
+              <li>Tools: Docker, Git, Firebase, Jira
               </li>
             </ul>
           </section>
