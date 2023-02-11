@@ -78,7 +78,7 @@ export default function Home() {
             <ul className="pl-12">
               <li><a href='http://www.cssgradienteditor.com'>cssgradienteditor.com</a></li>
               <li><a href='http://www.csstextshadoweditor.com'>csstextshadoweditor.com</a></li>
-              <li><a href='http://www.html-css-js-editor.vercel.app'>html-css-js-editor.vercel.app</a></li>
+              <li><a href='https://html-css-js-editor.vercel.app/'>html-css-js-editor.vercel.app</a></li>
               <li><a href='http://www.real-time-open-chat.vercel.app'>real-time-open-chat.vercel.app</a></li>
             </ul>
           </section>
