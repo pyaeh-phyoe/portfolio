@@ -74,7 +74,7 @@ export default function Home() {
             </ul>
           </section>
           <section className='py-10 border-b border-zinc-300 dark:border-[#2c2c2c]'>
-            <h3 className='text-xl font-bold mb-2.5'>My Personal Projects</h3>
+            <h3 className='text-xl font-bold mb-2.5'>My Own Projects</h3>
             <ul className="pl-12">
               <li><a href='http://www.cssgradienteditor.com'>cssgradienteditor.com</a></li>
               <li><a href='http://www.csstextshadoweditor.com'>csstextshadoweditor.com</a></li>
