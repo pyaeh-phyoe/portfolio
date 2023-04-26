@@ -48,18 +48,20 @@ export default function Home() {
 
           <section className='py-10 border-b border-zinc-300 dark:border-[#2c2c2c]'>
             <div className='flex items-center justify-between'>
-              <h3 className='text-4xl font-bold mb-2.5'>Hey, I&#39;m Pyaeh Phyoe Ko Ko!</h3>
-              {/* <h3 className='text-4xl font-bold mb-2.5'>Hey, I'm Pyaeh Phyoe Ko Ko!</h3> */}
-              <div className='w-40 h-40 rounded-full'>
+              <div className='w-40 h-40'>
                 <Image
+                  className='rounded-full'
                   alt='avatar'
                   width={160}
                   height={160}
                   src="./profile-picture.jpg"
                 />
-              </div> 
+              </div>
+              <h3 className='text-4xl font-bold mb-2.5'>Hey, I&#39;m Pyaeh Phyoe Ko Ko!</h3>
+              {/* <h3 className='text-4xl font-bold mb-2.5'>Hey, I'm Pyaeh Phyoe Ko Ko!</h3> */}
+
             </div>
-          </section> 
+          </section>
 
           <section className='py-10 border-b border-zinc-300 dark:border-[#2c2c2c]'>
             <h3 className='text-xl font-bold mb-2.5'>Technical Skills</h3>
@@ -87,7 +89,7 @@ export default function Home() {
             <div className='flex p-16 justify-around'>
               <a href="http://www.github.com/pyaeh-phyoe" className='hover:underline hover:underline-offset-4 hover:decoration-2	 dark:hover:text-pink-500'>GitHub</a>
               <a href="http://www.linkedin.com/in/pyaehphyoekoko" className='hover:underline hover:underline-offset-4 hover:decoration-2	 dark:hover:text-pink-500'>LinkedIn</a>
-              <a href="https://flowcv.com/resume/v2keji1r8b" className='hover:underline hover:underline-offset-4 hover:decoration-2	 dark:hover:text-pink-500'>Resume</a> 
+              <a href="https://flowcv.com/resume/v2keji1r8b" className='hover:underline hover:underline-offset-4 hover:decoration-2	 dark:hover:text-pink-500'>Resume</a>
             </div>
             <div className='flex justify-center' onClick={() => {
               window.scrollTo({ top: 0, left: 0, behavior: 'smooth' });
@@ -100,7 +102,7 @@ export default function Home() {
             </div>
 
           </footer>
-        </div> 
+        </div>
       </main>
 
     </>
