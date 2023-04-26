@@ -55,7 +55,7 @@ export default function Home() {
                   alt='avatar'
                   width={160}
                   height={160}
-                  src="./avatar.png"
+                  src="./profile-picture.jpg"
                 />
               </div> 
             </div>
@@ -78,8 +78,9 @@ export default function Home() {
             <ul className="pl-12">
               <li><a href='http://www.cssgradienteditor.com'>cssgradienteditor.com</a></li>
               <li><a href='http://www.csstextshadoweditor.com'>csstextshadoweditor.com</a></li>
-              <li><a href='https://html-css-js-editor.vercel.app/'>html-css-js-editor.vercel.app</a></li>
-              <li><a href='https://real-time-open-chat.vercel.app/'>real-time-open-chat.vercel.app</a></li>
+              <li><a href='https://code-vault.vercel.app/'>code-vault.vercel.app</a></li>
+              <li><a href='https://interview-wizard.vercel.app/'>interview-wizard.vercel.app</a></li>
+              <li><a href='https://chat-sphere.vercel.app/'>chat-sphere.vercel.app</a></li>
             </ul>
           </section>
           <footer>
